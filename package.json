@@ -1,0 +1,10 @@
+{
+  "name": "handler",
+  "description": "Base.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ph",
+  "license": "MIT",
+  "dependencies": {},
+  "repository": "https://github.com/http-ph/Handler.git"
+}
