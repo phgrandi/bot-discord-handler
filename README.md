@@ -1,3 +1,6 @@
+## Handler para bots Discord
+
+
 ## Modules install:
 Use: `npm install`
 
